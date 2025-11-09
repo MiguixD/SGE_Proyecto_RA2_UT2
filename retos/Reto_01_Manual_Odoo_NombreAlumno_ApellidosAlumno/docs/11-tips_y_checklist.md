@@ -9,8 +9,8 @@
 - [x] BD de prueba activada
 - [x] Apps iniciales instaladas
 - [x] 2FA y notificaciones configuradas
-- [ ] Gmail/Calendar integrados (si aplica)
-- [ ] Contactos importados y etiquetados
+- [x] Gmail/Calendar integrados (si aplica)
+- [x] Contactos importados y etiquetados
 - [ ] Proyectos/tareas creados
 - [ ] Documentos y firma probados
 - [ ] Wiki inicial en Información
