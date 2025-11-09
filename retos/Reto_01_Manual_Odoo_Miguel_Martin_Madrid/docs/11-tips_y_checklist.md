@@ -11,6 +11,6 @@
 - [x] 2FA y notificaciones configuradas
 - [x] Gmail/Calendar integrados (si aplica)
 - [x] Contactos importados y etiquetados
-- [ ] Proyectos/tareas creados
-- [ ] Documentos y firma probados
-- [ ] Wiki inicial en Información
+- [x] Proyectos/tareas creados
+- [x] Documentos y firma probados
+- [x] Wiki inicial en Información
