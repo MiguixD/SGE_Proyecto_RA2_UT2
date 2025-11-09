@@ -12,7 +12,7 @@ Una vez dentro podemos cambiar si queremos verlo por semana, mes o año y podrí
 
 ## Integración con Google Calendar
 
-Como ya hicimos en la [integración con gmail](/retos/Reto_01_Manual_Odoo_NombreAlumno_ApellidosAlumno/docs/05-integracion_gmail.md), vamos a ir a Google Cloud Console. En un nuevo proyecto, buscamos Google Calendar API y le damos a Enable.  
+Como ya hicimos en la [integración con gmail](05-integracion_gmail.md), vamos a ir a Google Cloud Console. En un nuevo proyecto, buscamos Google Calendar API y le damos a Enable.  
 
 ![Google Calendar API](../assets/img/07-calendario_y_citas/paso03_google-calendar-api.png)  
 

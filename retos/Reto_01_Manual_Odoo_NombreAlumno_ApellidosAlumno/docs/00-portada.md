@@ -1,4 +1,4 @@
-# Manual de Odoo — {Nombre Apellidos}
-**Reto:** Manual_Odoo_{Nombre}_{Apellidos}  
+# Manual de Odoo — Miguel Martín Madrid
+**Reto:** Manual_Odoo_Miguel_Martin_Madrid  
 **Proyecto:** Proyecto_RA2_UT2  
-**Fecha:** {YYYY-MM-DD}
+**Fecha:** 2025-11-09
