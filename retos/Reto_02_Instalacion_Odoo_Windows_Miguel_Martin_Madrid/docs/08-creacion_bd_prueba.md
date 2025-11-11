@@ -1,9 +1,11 @@
 # 08 — Creación de base de datos de prueba
 
-1. Accede a `http://localhost:8069` en tu navegador.
-2. Crea una **base de datos nueva** (admin email y contraseña).
-3. Elige módulos iniciales si procede.
+Vamos a acceder a Odoo escribiendo el enlace `http://localhost:8069` en nuestro navegador, o en caso de que hayamos elegido otro puerto, pues cambiamos en enlace al del puerto.  
 
-![Crear BD](../assets/img/08-creacion_bd_prueba/paso01_crear-bd.png "Crear base de datos")
+Creamos una base de datos nueva introduciendo los datos necesarios y le damos a Crear base de datos.  
 
-> Resultado esperado: BD de prueba creada y primer acceso.
+![Crear base de datos](../assets/img/08-creacion_bd_prueba/paso01_crear-bbdd.png)  
+
+Esperamos unos minutos y cuando se cree podemos elegir una aplicación para instalar.  
+
+![Elegir aplicación](../assets/img/08-creacion_bd_prueba/paso02_elegir-aplicaciones.png)  
