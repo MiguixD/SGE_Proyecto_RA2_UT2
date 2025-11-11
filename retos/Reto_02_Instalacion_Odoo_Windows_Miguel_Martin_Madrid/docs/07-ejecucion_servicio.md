@@ -1,9 +1,9 @@
 # 07 — Ejecución y servicio
 
-1. Inicia Odoo mediante el **servicio de Windows** o acceso directo.
-2. Verifica el estado del servicio (**Servicios** de Windows).
-3. (Opcional) Revisa logs si no arranca correctamente.
+Para comprobar que el servicio está inicializado, vamos ir al administrador de servicios de Windows presionando la tecla Windows y buscando servicios. En esta pestaña podemos ver si el servicio odoo-server-19.0 está en ejecución o no.  
 
-![Servicio](../assets/img/07-ejecucion_servicio/paso01_servicio-odoo.png "Servicio Odoo en Windows")
+![Comprobar servicio](../assets/img/07-ejecucion_servicio/paso01_servicio-odoo.png)  
 
-> Resultado esperado: Odoo en ejecución local.
+Si damos click derecho sobre el servicio podemos detenerlo o configurar si se incia automáticamente o manualmente, o si estuviera apagado podríamos arrancarlo.  
+
+![Administrar servicio](../assets/img/07-ejecucion_servicio/paso02_administrar-servicio.png)  
