@@ -1,8 +1,5 @@
 # 09 — Verificación de acceso
 
-- Comprueba que puedes iniciar sesión y ver el **panel de Odoo**.
-- Toma una captura del **dashboard** con la **fecha/hora** visible.
+Cuando tengamos nuestra aplicación nos llevará a nuestro panel de control donde podemos ver los ajustes, la aplicación, el chat, etc.  
 
-![Dashboard](../assets/img/09-verificacion/paso01_dashboard.png "Panel principal Odoo")
-
-> Resultado esperado: acceso confirmado desde el navegador local.
+![Dashboard](../assets/img/09-verificacion/paso01_dashboard.png)  
