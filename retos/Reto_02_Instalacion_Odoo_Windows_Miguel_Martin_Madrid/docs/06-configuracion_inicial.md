@@ -1,7 +1,13 @@
 # 06 — Configuración inicial
 
-1. Localiza archivos de **configuración** (si aplica) y el puerto por defecto (ej. `8069`).
-2. (Opcional) Ajusta idioma, zona horaria, y otros parámetros iniciales.
-3. Anota la **URL de acceso local** (p. ej., `http://localhost:8069`).
+Los archivos de configuración de Odoo están dentro de la carpeta server. Para configurar el puerto el archivo al que tenemos que acceder es odoo.conf.  
 
-> Resultado esperado: parámetros básicos identificados/documentados.
+![odoo.conf](../assets/img/06-configuracion_inicial/paso01_odoo-conf.png)  
+
+Para poder editarlo vamos a ejecutar el bloc de notas como administrador y abriremos el archivo desde el bloc de notas.  
+
+Podemos cambiar muchas cosas en este archivo, por ejemplo, para cambiar el puerto modificaríamos http_port.  
+
+![Configurar puerto](../assets/img/06-configuracion_inicial/paso02_configurar-puerto.png)  
+
+El puerto por defecto es el 8069, por lo que el enlace para acceder sería `http://localhost:8069`.  
